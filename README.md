@@ -90,7 +90,3 @@ Designed and developed a KPI dashboard using Streamlit and Python, implementing 
 - Add forecasting or trend analysis
 - Add profit margin analysis
 - Deploy on Streamlit Cloud
-
-## Screenshots
-
-Add dashboard screenshots here after running the app locally.
