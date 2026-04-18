@@ -1,0 +1,5 @@
+streamlit>=1.44
+pandas>=2.2
+matplotlib>=3.8
+jupyter>=1.0
+notebook>=7.0
