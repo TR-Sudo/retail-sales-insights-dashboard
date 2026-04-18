@@ -63,7 +63,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Add the dataset to `data/SuperMarket Analysis.csv` or `data/supermarket_sales.csv`.
+3. Add the dataset to `data/SuperMarket Analysis.csv`
 
 4. Run the app:
 
